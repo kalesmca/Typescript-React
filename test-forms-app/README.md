@@ -1,3 +1,7 @@
+# Jest Testing setup command
+    npm i @typse/jest ts-jest ts-node
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
